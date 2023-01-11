@@ -1,0 +1,11 @@
+git init
+git branch
+git remote add origin https://github.com/Kohidinesh/My-Repo-vamsi-class.git
+git push --set-upstream origin master
+git add README.md
+git status
+git commit -m "first comming"
+git push
+git branch develop
+git push --set-upstream origin develop
+git checkout develop
